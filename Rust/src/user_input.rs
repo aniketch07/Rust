@@ -8,5 +8,5 @@ fn main() {
         .read_line(&mut input)
         .expect("Failed to read input");
 
-    println!("Hello, {}!", input.trim());
+    println!("Hello this is, {}!", input.trim());
 }
